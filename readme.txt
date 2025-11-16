@@ -16,8 +16,8 @@ At the time of development of this script, we used a ULN2003A transistor array a
 
 	
 						
-					  +----------------------+
-	 +-------------------+            |      ULN2003A        |
+					  					  +----------------------+
+	 	 +-------------------+            |      ULN2003A        |
          |   Raspberry Pi    |            |   (transistor array) | 
          |                   |            |                      | 
          |   GPIO17 ---------+----------->| IN1   OUT1 ----------+----> HV Load
